@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Max Rep Calculator</string>
+    <string name="pounds">Pounds</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="one_rep_max">One Rep Max</string>
+    <string name="weight">Weight</string>
+    <string name="reps">Reps</string>
+    <string name="calculate">Calculate</string>
+</resources>
